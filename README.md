@@ -5,6 +5,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install kibana-doc-zh
+kibana-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
