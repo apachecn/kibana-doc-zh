@@ -1,6 +1,7 @@
 # Kibana 5.2 中文文档
 
 +   [在线阅读](https://kibana.apachecn.org)
++   [在线阅读（Gitee）](https://apachecn.gitee.io/kibana-doc-zh/)
 
 
 ## 下载
